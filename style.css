@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    border: black 2px solid;
+    font-weight:2000;
+}
+
+
+section.uno{
+    
+    border-top: double 20px red;
+    border-left: double 20px red;
+    
+}
+
+body{
+    font-size: 200%;
+}
+p{
+    text-align: justify;
+}
+section.dos{
+    border-width: 6px 30px 30px 30px;
+    border-color: blue green;
+    border-style: dashed;
+}
+p.tres{
+    border-style: double;
+    border-color: rgb(187, 187, 26);
+    border-width: 30px;
+    padding: 0em;
+}
+p.cuatro{
+    border-bottom: blue 15px solid;
+    border-top:green 15px solid;
+}
+p.cinco{
+    border-top: red 30px dashed;
+    border-left: black 30px solid;
+    border-right: black 30px solid;
+    border-bottom: black 30px dotted;
+
+}
+
+p.seis{
+    border-top: black 10px dotted;
+    border-right: black 30px solid;
+    border-left: red 30px double;
+    border-bottom: black 30px dashed;
+}
+footer p{
+    text-align: center;
+    background-color: white;
+    border: black 2px solid;
+}
+
